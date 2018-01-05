@@ -1,2 +1,2 @@
 # SQL
-Sample SQL Queries from acadamia assignments
+Sample SQL Queries from academia assignments
